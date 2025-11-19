@@ -18,6 +18,8 @@
 [Bb]uild/
 [Bb]uilds/
 UserSettings/
+MemoryCaptures/
+Logs/
 Packages/PackageCache/
 
 *.log
